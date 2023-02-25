@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang>
+<head>
+  
+  <title> Países </title>
+</head>
+  
+  <body>
+  <table border="1">
+      <tr> 
+        <th>Países</th>
+        <th>População</th>
+        <Th>Bandeira</th>
+    <th>Mais informações</th>
+    </tr>
+    <tr>
+      <td> China</td>
+      <td>  1 Bilhão 447 milhões </td>
+      <td> <img src="https://http2.mlstatic.com/bandeira-da-china-cetim-150m-x-90cm-chinesa-chinese-D_NQ_NP_853601-MLB26379925445_112017-F.jpg" widhth="150" height="99"></td>
+      <td> <a href="https://en.wikipedia.org/wiki/China" target="_blank" >China</a> </td>
+    </tr> 
+    <tr>
+      <td>Coreia Do norte </td>
+      <td>25 milhoes 867 mil </td>
+      <td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvdrbandeiras.com.br%2FEshop.Admin%2FImagens%2Fvdrbandeiras%2FBandeira%2520Coreia%2520do%2520Norte.jpg&f=1&nofb=1&ipt=8ca305d04afd68713947e74b0a9724babdd1df6692b6bd4d30498ecac7688758&ipo=images"width="150" height"99"></td>
+      <td>  <a href="https://en.wikipedia.org/wiki/Main_Page" target="_blank" >Coreia Do Norte</a> </td>
+    </tr>
+    <tr>
+      <td>Cuba </td>
+      <td> 11 milhões 308 mil </td>
+      <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/255px-Flag_of_Cuba.svg.png" width="150"height="99" </td>
+      <td> <a href="https://en.wikipedia.org/wiki/Cuba" target="_blank" >Cuba</a> </td>
+    </tr>
+    <tr>
+      <td>Laos </td>
+      <td>7 milhões e 500 mil </td>
+      <td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.T6-IOBXz6AB03l-6611lsgHaE8%26pid%3DApi&f=1&ipt=89ba029b71edd936751f72f9356f3c6839a68196b5c1c7aaa9fe582ae860fd0d&ipo=images" width="150" height="99"></td>
+      <td> <a href="https://en.wikipedia.org/wiki/Laos" target="_blank" >Laos</a> </td>
+    </tr>
+    <tr>
+      <td>Vietnã</td>
+      <td>96 milhões</td>
+      <td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.8DZJNxM4D7jBbdGmUzrCrAHaE8%26pid%3DApi&f=1&ipt=3f5673cc91f5061c7e56db134a2e43426ee5da2b0178ed2c4f8f2d2f78a8bedf&ipo=images" width="150" height="99"></td>
+      <td> <a href="https://en.wikipedia.org/wiki/Vietnam" target="_blank" >Vietnã</a> </td>
+    </tr>
+    <tr>
+      <td>Albania</td>
+      <td>2 milhões e 800 mil</td>
+      <td> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Yb-3vp-VeOclBxalsDLr_wHaFS%26pid%3DApi&f=1&ipt=1dab1ef3c934ef8ad29f04edfe2fcb48691b13441a777e4d0e04d979cbe14b6d&ipo=images" width="150" height="99"></td>
+      <td> <a href="https://en.wikipedia.org/wiki/Albania" target="_blank" >Albania</a> </td>
+    </tr>
+    <tr>
+    <td>Camboja</td>
+    <td>17 Milhões</td>
+    <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/125px-Flag_of_Cambodia.svg.png" width="150" height ="99"></td>
+    <td> <a href="https://en.wikipedia.org/wiki/Cambodia" target="_blank" >Camboja</a> </td>
+    </tr>
+    <tr>
+    <td>Angola</td>
+    <td>32 Milhões </td>
+    <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/125px-Flag_of_Angola.svg.png" width="150" lenght="99"> </td>
+              <td> <a href="https://en.wikipedia.org/wiki/Angola" target="_blank" >Angola</a> </td>
+    </tr>
+    <tr>
+      <td>Moçambique</td>
+      <td>30 Milhões</td>
+      <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/125px-Flag_of_Mozambique.svg.png" width="150" height="99"></td>
+      <td> <a href="https://en.wikipedia.org/wiki/Mozambique" target="_blank" >Moçambique</a> </td>
+    </tr>
+    <tr>
+    <td>Polonia</td>
+    <td>38 Milhões</td>
+    <td> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/125px-Flag_of_Poland.svg.png" width="150" height="99">
+    <td> <a href="https://en.wikipedia.org/wiki/Poland" target="_blank" >Polonia</a></td>
+    </tr>
+    </html>
+  </body>

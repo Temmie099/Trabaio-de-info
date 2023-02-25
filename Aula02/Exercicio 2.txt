@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <title>ex2</title>
+</head>
+
+<body>
+    <h1>Formulário de Inscrição</h1>
+    <form>
+        <fieldset>
+            <legend>Dados pessoais</legend>
+            <label for ="nome">Nome:</label>
+            <input type="text" id="nome" name="nome"><br>
+            <label for ="endereco">endereco:</label>
+            <input type="text" id="Endereco" name="endereco"> <br>
+            <label for ="Cidade">Cidade:</label>
+            <input type="text" id="Cidade" name="Cidade"> <br>
+            <Select name="Estados" id="">
+            <option value="Acre">Acre</option>
+            <option value="Alagoas">Alagoas</option>
+            <option value="Amapá">Amapá</option>
+            <option value="Amazonas">Amazonas</option>
+            <option value="Bahia">Bahia</option>
+            <option value="Ceará">Ceará</option>
+            <option value="Espirito Santo">Espirito Santo</option>
+            <option value="Distrito Federal">Distrito Federal</option>
+            <option value="Goiás">Goiás</option>
+            <option value="Maranhão">Maranhão</option>
+            <option value="Mato Grosso">Mato Grosso</option>
+            <option value="Mato Grosso Do Sul">Mato Grosso Do Sul</option>
+            <option value="Minas Gerais">Minas Gerais</option>
+            <option value="Pará">Pará</option>
+            <option value="Paraiba">Paraiba</option>
+            <option value="Paraná">Paraná</option>
+            <option value="Pernambuco">Pernambuco</option>
+            <option value="Piaui">Piaui</option>
+            <option value="Rio De Janeiro">Rio De Janeiro</option>
+            <option value="Rio Grande Do Norte">Rio Grande Do Norte</option>
+            <option value="Rio Grande Do Sul">Rio Grande Do Sul</option>
+            <option value="Rondonia">Rondonia</option>
+            <option value="Roraima">Roraima</option>
+            <option value="Santa Catarina">Santa Catarina</option>
+            <option value="Sao Paulo">Sao Paulo</option>
+            <option value="Sergipe">Sergipe</option>
+            <option value="Tocantins">Tocantins</option>
+</Select><br>
+</fieldset>
+<br><br>
+<fieldset>
+    <legend>Preencha seus dados abaixo</legend>
+    <p>Qual seu nivel de conhecimento em programação:</p>
+    <label for="nenhum">Nenhum</label>
+    <input type="Radio" id="nenhum" name="nenhum">
+    <label for="Baixo">baixo</label>
+    <input type="Radio" id="baixo" name="Baixo">
+    <label for="intermediario">Intermediario</label>
+    <lnput type="radio" id="intermediario" name="intermediario">
+    <label for="Avancado">Avançado</label>
+    <Input type="radio" id="avancado" name="Avançado"><br>
+    <br>
+    <p>Selecione as linguagens que vove mais se interessa em aprender</p>
+    <input type="checkbox" id="" name=""value="C/C++">C/C++<input type="checkbox" id="" name="" value="PHP">PHP</lnput>
+</fieldset>
+    </form>
+</body>
+</html>

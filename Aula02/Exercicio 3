@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Ex3</title>
+</head>
+
+<body>
+    <h1>Novo Cadastro</h1>
+    <form>
+        <fieldset>
+            <label for ="nome">Nome Completo:</label> 
+            <input type="text" id="nome" name="Nome Completo"><br>
+            <label for ="CPF">CPF:</label>
+            <input type="text" id="CPF" name="CPF"><br>
+            <label for="E-mail">E-mail:</label>
+            <input type="Text" id="E-mail" name="E-mail"><br>
+            <label for="Endereco">Endereco:</label>
+            <Input type="text" id="Endereco" name="Endereco"><br>
+            <label for="Bairro">Bairro:</label>
+            <Input type="text" id="Bairro" name="Bairro"><br>
+            <label for="Cidade">Cidade:</label>
+            <Input type="text" id="Cidade" name="Cidade"><br>
+            <label for="CEP">CEP:</label>
+            <Input type="text" id="CEP" name="CEP"><br>
+                <Select name="Estados" id="">
+                    <option value="Acre">Acre</option>
+                    <option value="Alagoas">Alagoas</option>
+                    <option value="Amapá">Amapá</option>
+                    <option value="Amazonas">Amazonas</option>
+                    <option value="Bahia">Bahia</option>
+                    <option value="Ceará">Ceará</option>
+                    <option value="Espirito Santo">Espirito Santo</option>
+                    <option value="Distrito Federal">Distrito Federal</option>
+                    <option value="Goiás">Goiás</option>
+                    <option value="Maranhão">Maranhão</option>
+                    <option value="Mato Grosso">Mato Grosso</option>
+                    <option value="Mato Grosso Do Sul">Mato Grosso Do Sul</option>
+                    <option value="Minas Gerais">Minas Gerais</option>
+                    <option value="Pará">Pará</option>
+                    <option value="Paraiba">Paraiba</option>
+                    <option value="Paraná">Paraná</option>
+                    <option value="Pernambuco">Pernambuco</option>
+                    <option value="Piaui">Piaui</option>
+                    <option value="Rio De Janeiro">Rio De Janeiro</option>
+                    <option value="Rio Grande Do Norte">Rio Grande Do Norte</option>
+                    <option value="Rio Grande Do Sul">Rio Grande Do Sul</option>
+                    <option value="Rondonia">Rondonia</option>
+                    <option value="Roraima">Roraima</option>
+                    <option value="Santa Catarina">Santa Catarina</option>
+                    <option value="Sao Paulo">Sao Paulo</option>
+                    <option value="Sergipe">Sergipe</option>
+                    <option value="Tocantins">Tocantins</option>
+                </Select><br>
+            </fieldset>
+            <br><br>
+            <fieldset>
+                            <label for="Telefone">Telefone:</label>
+                            <input type="text" id="Telefone" name="Telefone" placeholder="(XX)XXXXX-XXXX">
+                            <label for="Data de nascimento">Data de Nascimento:</label>
+                            <input type="text" id="Data de nascimento" name="Data de nascimento" placeholder="DD/MM/AAAA">
+                            
+                            <Label for="Sexo">Sexo:</Label>
+                                <input type="checkbox" id="M" name="M" checked>
+                                <label for="M">M</label>
+                              
+                          
+                              
+                                <input type="checkbox" id="F" name="F">
+                                <label for="F">F</label>
+                                <label for="Login">Login:</label>
+                                <Input type="text" id="Login" name="Login"><br>
+                                <Label for="Senha">Senha</Label>
+                                <Input type="text" id="Senha" name="Senha"><br>
+                    
+
+
+
+                              
+
+
+                
+    
